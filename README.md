@@ -1,6 +1,6 @@
 # Hi there, I'm Mena Adwoa! 👋 # 
 
-[Banner Image](https://www.pinterest.com/pin/644014815486286911/)]
+[Banner Image](https://drive.google.com/file/d/1oOUO5TYWpMD-3IaqZ5KbiKwB2MyZoOGx/view?usp=sharing)
 
 ## About Me 🚀
 
