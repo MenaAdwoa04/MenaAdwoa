@@ -33,20 +33,36 @@ I am a passionate **Data Analyst and Backend Developer in training** with experi
 ## Featured Projects 💻
 
 ### [Tourism Performance Analysis Project](https://app.powerbi.com/reportEmbed?reportId=9d7fb7ed-9329-484e-bc0f-524f61a307ca&autoAuth=true&ctid=bd697c1b-c481-479c-841e-c618542675c3)
-![[Project 1 Screenshot](https://drive.google.com/file/d/1q8MfreMMrbYAIdIcL5z4JcAOaXdLPdY0/view?usp=drive_link)]
+[Image](https://drive.google.com/file/d/1q8MfreMMrbYAIdIcL5z4JcAOaXdLPdY0/view?usp=drive_link)]
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+**Tourism Performance Dashboard** is a **data-driven visualization project** built with **Power BI**. This project demonstrates my ability to **analyze multi-dimensional tourism data, track revenue and visitation trends, assess regional performance, and present customer satisfaction insights through interactive and visually engaging dashboards**.
+You can check out the repository [here](project_1_repository_link).
 
-### [Project 2 Title](project_2_link)
+**Key insights include:**
+- Total revenue of **2M** and **42K** total visits, highlighting the scale of tourism activity.
+- Seasonal trends in tourism, with peaks in June and July.
+- Regional comparison of total revenue and satisfaction levels, identifying **South** and **West** as top-performing areas.
+- Use of a dynamic slicer for filtering satisfaction metrics by region.
 
-![Project 2 Screenshot](project_2_screenshot_url)
+This dashboard showcases my strength in storytelling with data, creating intuitive interfaces, and turning raw figures into strategic business insights.
 
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+### [Payswift Ghana Project](https://app.powerbi.com/reportEmbed?reportId=69bf78ce-28c7-45e9-a93b-31e85c86fe90&autoAuth=true&ctid=bd697c1b-c481-479c-841e-c618542675c3).
+[Image](https://drive.google.com/file/d/1vCGdd1Lyh_A3DwmwcfLDM6sLT5YQmdB3/view?usp=drive_link)]
+
+**Payswift Ghana Dashboard** is a **customer analytics and loan performance project** built with **Power BI**. This project demonstrates my ability to **track customer churn, analyze loan defaults, visualize repayment trends, and segment users based on age and feature usage**. You can check out the repository [here](project_2_repository_link).
+
+**Key insights include:**
+- A total loan amount of **343K** with **12.52 average monthly transactions**.
+- **Customer churn analysis** reveals 65% of customers have churned.
+- Age-wise repayment status and feature usage behavior help identify user engagement and risks.
+- Repayment activity trends linked to transaction frequency and default risks.
+
+This project highlights my skills in **user behavior analysis, financial data modeling, and building dashboards that support decision-making for customer retention and risk management**.
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+- **[Personal Website / Blog]** (https://mena-mensiwa-kumi.zarlasites.com/)
+- **[LinkedIn]** www.linkedin.com/in/mena-kumi-
+- **[Twitter]** https://x.com/AMensiwa
 
 
