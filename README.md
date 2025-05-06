@@ -74,20 +74,13 @@ This project highlights my skills in **user behavior analysis, financial data mo
 - **[LinkedIn]** www.linkedin.com/in/mena-kumi-
 - **[Twitter]** https://x.com/AMensiwa
 
-  ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="langs" />
-</p>
-
 ---
 
 ## 🎯 Let's Build Something Great
+
+<p align="center">
+  <img src= "https://www.shutterstock.com/image-vector/concept-computer-programming-developing-software-600nw-2149658841.jpg" alt="Welcome Banner" width="100%" />
+</p>
 
 > “Code with purpose, analyze with vision.”
 
