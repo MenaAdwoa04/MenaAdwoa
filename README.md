@@ -1,11 +1,20 @@
 # Hi there, I'm Mena Adwoa! 👋 # 
 
-[Banner Image](https://drive.google.com/file/d/1oOUO5TYWpMD-3IaqZ5KbiKwB2MyZoOGx/view?usp=sharing)
-
+<p align="center">
+  <img src= "https://png.pngtree.com/png-clipart/20220510/original/pngtree-programming-and-coding-banner-working-png-image_7696638.png" alt="Welcome Banner" width="100%" />
+</p>
+    
 ## About Me 🚀
 
-I am a passionate **Data Analyst and Backend Developer in training** with experience in **SQL, Python (Pandas, NumPy, Matplotlib, Seaborn), Excel, and data visualization tools**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions. My journey started in customer service and evolved through hands-on projects in healthcare analytics, HR dashboards, and environmental data. Now, I am diving deeper into backend engineering—combining analytical thinking with strong problem-solving to build impactful systems.
+I am a **Data Analyst and Backend Developer in training**, currently enrolled in the **ALX Software Engineering** program. I am building a strong foundation in backend development and systems thinking, with hands-on experience in:
+- **SQL**
+- **Python**(Pandas, NumPy, Matplotlib, Seaborn)
+- **Excel**
+- **Data Visualization Tools**
 
+My journey began in **customer service**, where I learned the value of empathy and clear communication. Over time, I transitioned into data analysis through practical projects in **healthcare analytics, HR dashboards, and environmental data**. Now, I am diving deeper into backend engineering—combining my analytical mindset with technical skills to build systems that make a real impact. 🔭 My vision is to become a **top-tier Backend Engineer and Data Analyst**, creating solutions that solve meaningful problems, drive innovation, and empower people and businesses. 🤝 I enjoy working on real-world projects, learning new technologies, and collaborating with diverse teams to build creative and effective solutions.
+
+### 🚀 Quick Facts
 
 - 🌱 Currently learning: **Backend Engineering.**
 - 🔭 Working on: **MedLab Diagnostics (healthcare data insights), GenTech HR Analysis, and building backend skills through mini-projects.**
@@ -64,5 +73,25 @@ This project highlights my skills in **user behavior analysis, financial data mo
 - **[Personal Website / Blog]** (https://mena-mensiwa-kumi.zarlasites.com/)
 - **[LinkedIn]** www.linkedin.com/in/mena-kumi-
 - **[Twitter]** https://x.com/AMensiwa
+
+  ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="langs" />
+</p>
+
+---
+
+## 🎯 Let's Build Something Great
+
+> “Code with purpose, analyze with vision.”
+
+I am looking forward to collaborating on impactful, scalable, and data-informed projects with like-minded developers and organizations.
+
 
 
