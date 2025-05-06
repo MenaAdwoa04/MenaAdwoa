@@ -32,7 +32,7 @@ I am a passionate **Data Analyst and Backend Developer in training** with experi
 
 ## Featured Projects 💻
 
-### [Tourism Performance Analysis Project]([https://app.powerbi.com/reportEmbed?reportId=9d7fb7ed-9329-484e-bc0f-524f61a307ca&autoAuth=true&ctid=bd697c1b-c481-479c-841e-c618542675c3])
+### [Tourism Performance Analysis Project](https://app.powerbi.com/reportEmbed?reportId=9d7fb7ed-9329-484e-bc0f-524f61a307ca&autoAuth=true&ctid=bd697c1b-c481-479c-841e-c618542675c3)
 ![[Project 1 Screenshot](https://drive.google.com/file/d/1q8MfreMMrbYAIdIcL5z4JcAOaXdLPdY0/view?usp=drive_link)]
 
 **[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
