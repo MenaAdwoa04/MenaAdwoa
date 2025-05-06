@@ -17,7 +17,7 @@ My journey began in **customer service**, where I learned the value of empathy a
 ### 🚀 Quick Facts
 
 - 🌱 Currently learning: **Backend Engineering.**
-- 🔭 Working on: **MedLab Diagnostics (healthcare data insights), GenTech HR Analysis, and building backend skills through mini-projects.**
+- 🔭 Working on: **Building backend skills through mini-projects.**
 - 🌍 Languages: **Python, SQL, HTML/CSS (basic)| English, Akan**
 - 📫 How to reach me: **adwoamenaj@gmail.com | www.linkedin.com/in/mena-kumi-**
 - ⚡ Fun fact: **I love watching animes and also making people laugh-its my way to ease stress and connect with others.**
