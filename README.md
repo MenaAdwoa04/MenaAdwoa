@@ -1,1 +1,53 @@
-# MenaAdwoa
+# Hi there, I'm Mena Adwoa! 👋 # 
+
+[![Banner Image](https://www.pinterest.com/pin/644014815486286911/)]
+
+## About Me 🚀
+
+I am a passionate **Data Analyst and Backend Developer in training** with experience in **SQL, Python (Pandas, NumPy, Matplotlib, Seaborn), Excel, and data visualization tools**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions. My journey started in customer service and evolved through hands-on projects in healthcare analytics, HR dashboards, and environmental data. Now, I am diving deeper into backend engineering—combining analytical thinking with strong problem-solving to build impactful systems.
+
+
+- 🌱 Currently learning: **Backend Engineering.**
+- 🔭 Working on: **MedLab Diagnostics (healthcare data insights), GenTech HR Analysis, and building backend skills through mini-projects.**
+- 🌍 Languages: **Python, SQL, HTML/CSS (basic)| English, Akan**
+- 📫 How to reach me: **adwoamenaj@gmail.com | www.linkedin.com/in/mena-kumi-**
+- ⚡ Fun fact: **I love watching animes and also making people laugh-its my way to ease stress and connect with others.**
+
+## My Skills 🧠
+
+### Tech Stack
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) 
+
+### 🤝 Soft Skills  
+![Communication](https://img.shields.io/badge/-Communication-blue?style=flat-square)
+![Team Collaboration](https://img.shields.io/badge/-Team%20Collaboration-brightgreen?style=flat-square)
+![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-orange?style=flat-square)
+![Detail Oriented](https://img.shields.io/badge/-Detail%20Oriented-purple?style=flat-square)
+![Growth Mindset](https://img.shields.io/badge/-Growth%20Mindset-9cf?style=flat-square)
+
+
+## Featured Projects 💻
+
+### [Project 1 Title](project_1_link)
+
+![[Project 1 Screenshot](https://drive.google.com/file/d/1q8MfreMMrbYAIdIcL5z4JcAOaXdLPdY0/view?usp=drive_link)]
+
+**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+
+### [Project 2 Title](project_2_link)
+
+![Project 2 Screenshot](project_2_screenshot_url)
+
+**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+
+## Get in Touch 📬
+
+- **[Personal Website / Blog]**(your_website_or_blog_link)
+- **[LinkedIn]**(your_linkedin_profile_link)
+- **[Twitter]**(your_twitter_profile_link)
+
+
