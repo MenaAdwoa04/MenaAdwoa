@@ -76,7 +76,7 @@ This project highlights my skills in **user behavior analysis, financial data mo
 
 ---
 
-## 🎯 Let's Build Something Great
+
 
 <p align="center">
   <img src= "https://www.shutterstock.com/image-vector/concept-computer-programming-developing-software-600nw-2149658841.jpg" alt="Welcome Banner" width="100%" />
@@ -84,7 +84,7 @@ This project highlights my skills in **user behavior analysis, financial data mo
 
 > “Code with purpose, analyze with vision.”
 
-I am looking forward to collaborating on impactful, scalable, and data-informed projects with like-minded developers and organizations.
+
 
 
 
