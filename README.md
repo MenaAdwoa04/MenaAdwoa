@@ -42,7 +42,6 @@ My journey began in **customer service**, where I learned the value of empathy a
 ## Featured Projects 💻
 
 ### [Tourism Performance Analysis Project](https://github.com/MenaAdwoa04/Tourism-Analysis-Project-/blob/master/Tourism.pbix)
-[Image](https://drive.google.com/file/d/1q8MfreMMrbYAIdIcL5z4JcAOaXdLPdY0/view?usp=drive_link)]
 
 **Tourism Performance Dashboard** is a **data-driven visualization project** built with **Power BI**. This project demonstrates my ability to **analyze multi-dimensional tourism data, track revenue and visitation trends, assess regional performance, and present customer satisfaction insights through interactive and visually engaging dashboards**.
 You can check out the repository [here](https://github.com/MenaAdwoa04/Tourism-Analysis-Project-.git).
@@ -56,7 +55,6 @@ You can check out the repository [here](https://github.com/MenaAdwoa04/Tourism-A
 This dashboard showcases my strength in storytelling with data, creating intuitive interfaces, and turning raw figures into strategic business insights.
 
 ### [Payswift Ghana Project](https://github.com/MenaAdwoa04/PaySwift-Ghana-Analysis-Project/blob/master/PAYSWIFT%20GHANA.pbix).
-[Image](https://drive.google.com/file/d/1vCGdd1Lyh_A3DwmwcfLDM6sLT5YQmdB3/view?usp=drive_link)]
 
 **Payswift Ghana Dashboard** is a **customer analytics and loan performance project** built with **Power BI**. This project demonstrates my ability to **track customer churn, analyze loan defaults, visualize repayment trends, and segment users based on age and feature usage**. You can check out the repository [here](https://github.com/MenaAdwoa04/PaySwift-Ghana-Analysis-Project.git).
 
