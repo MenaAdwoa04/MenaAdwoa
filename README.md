@@ -58,7 +58,7 @@ This dashboard showcases my strength in storytelling with data, creating intuiti
 ### [Payswift Ghana Project](https://github.com/MenaAdwoa04/PaySwift-Ghana-Analysis-Project.git).
 [Image](https://drive.google.com/file/d/1vCGdd1Lyh_A3DwmwcfLDM6sLT5YQmdB3/view?usp=drive_link)]
 
-**Payswift Ghana Dashboard** is a **customer analytics and loan performance project** built with **Power BI**. This project demonstrates my ability to **track customer churn, analyze loan defaults, visualize repayment trends, and segment users based on age and feature usage**. You can check out the repository [here](project_2_repository_link).
+**Payswift Ghana Dashboard** is a **customer analytics and loan performance project** built with **Power BI**. This project demonstrates my ability to **track customer churn, analyze loan defaults, visualize repayment trends, and segment users based on age and feature usage**. You can check out the repository [here](https://github.com/MenaAdwoa04/PaySwift-Ghana-Analysis-Project.git).
 
 **Key insights include:**
 - A total loan amount of **343K** with **12.52 average monthly transactions**.
