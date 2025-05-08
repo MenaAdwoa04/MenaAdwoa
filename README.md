@@ -77,7 +77,7 @@ This project highlights my skills in **user behavior analysis, financial data mo
 
 
 <p align="center">
-  <img src= "https://www.shutterstock.com/image-vector/concept-computer-programming-developing-software-600nw-2149658841.jpg" alt="Welcome Banner" width="100%"/>
+  <img src= "https://www.shutterstock.com/image-vector/concept-computer-programming-developing-software-600nw-2149658841.jpg" alt="Welcome Banner" width="100%" height="250px"/>
 </p>
 
 > “Code with purpose, analyze with vision.”
