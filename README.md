@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src= "https://png.pngtree.com/png-clipart/20220510/original/pngtree-programming-and-coding-banner-working-png-image_7696638.png" alt="Welcome Banner" width="100%" />
-  <a href="https://www.pinterest.com/">Click here if interested in banners like this</a>
 </p>
     
 ## About Me 🚀
