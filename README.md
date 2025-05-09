@@ -1,7 +1,7 @@
 # Hi there, I'm Mena Adwoa! 👋 # 
 
 <p align="center">
-  <img src= "https://png.pngtree.com/png-clipart/20220510/original/pngtree-programming-and-coding-banner-working-png-image_7696638.png" alt="Welcome Banner" width="100%" />
+  <img src= "https://i.pinimg.com/736x/cc/ad/9f/ccad9f999227240bc6fb7a2d2860c6ca.jpg" alt="Welcome Banner" width="100%" height="250" />
 </p>
     
 ## About Me 🚀
